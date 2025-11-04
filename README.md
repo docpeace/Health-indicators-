@@ -1,6 +1,4 @@
 
-Diabetes_Health_Indicators_Report.pdf-
-### 🩺 Diabetes Health Indicators Dashboard
 
 ## 📊 Project Overview
 This project presents a **comprehensive data analysis** on **Diabetes Health Indicators** using **Power BI**. It explores the relationship between various health metrics such as BMI, blood pressure, cholesterol levels, physical activity, mental health, and smoking habits in relation to diabetes risk.
